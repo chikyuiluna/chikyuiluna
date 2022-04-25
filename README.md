@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+    <a href="https://twitter.com/chikyuiluna">
+        <img src="https://img.shields.io/twitter/follow/chikyuiluna?style=flat-square&logo=twitter" alt="Follow @chikyuiluna on Twitter" />
+    </a>
+</div>
 
-<!--
-**chikyuiluna/chikyuiluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, there! 👋
 
-Here are some ideas to get you started:
+We're Chikyuiluna. Chikyuiluna (地球-и-луна = Chikyū-i-luna) is a group founded by Leonid Krasovsky and Svetlana Krasovskaya on October 7, 2021 in Bandung, West Java, Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Chikyuiluna's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikyuiluna&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chikyuiluna&theme=default)
